@@ -1,0 +1,2 @@
+-- Optional default user (please replace with a real BCrypt hash if you want it usable)
+-- INSERT INTO users (username, password) VALUES ('testuser', '$2a$10$exampleEncodedPassword');
