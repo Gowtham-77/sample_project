@@ -1,0 +1,11 @@
+{
+  "status": {
+    "message": [
+      {
+        "message_TYPE": "BE",
+        "messageCode": "100",
+        "messageDesc": "The user is not authorized to perform the action."
+      }
+    ]
+  }
+}

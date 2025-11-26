@@ -1,0 +1,11 @@
+{
+  "token_type": "bearer",
+  "token": "55f4b42da3a0cbd2094a39b87877bdccc8b401583902370c756f5bc4f1e772ca",
+  "expires_in": 3600,
+  "user": {
+    "userId": "TEST2",
+    "userType": "1",
+    "typeOfAccounts": "C",
+    "menuProfile": "RUSER_SB"
+  }
+}
